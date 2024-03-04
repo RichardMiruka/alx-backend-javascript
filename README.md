@@ -1,7 +1,6 @@
-# alx-backend-javascript
+# :book: alx-backend-javascript
 This is a repository for the ALX-backend with JavaScript through the final 3 months of specialization.
 
-# :book: alx-backend-javascript
 ## :page_with_curl: Topics Covered
 1. Introduction to JavaScript ES6 and Node.js.
 3. ES6 Data strucutures.
