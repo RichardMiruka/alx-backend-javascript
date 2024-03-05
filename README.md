@@ -1,5 +1,5 @@
 # :book: alx-backend-javascript
-This is a repository for the ALX-backend with JavaScript through the final 3 months of specialization. It touches on ES6 Basics, ES6 Promises, data manipulation, and TypeScript
+This is a repository for the ALX-backend with JavaScript through the final 3 months of specialization. It touches on ES6 Basics, ES6 Promises, data manipulation, TypeScript, Session authentication, NodeJS Basics, Queuing System in JS and Unittests in JS.
 
 ![image](https://github.com/RichardMiruka/alx-backend-javascript/assets/105627752/de098f1f-f322-4a12-b843-eead87694d5b)
 
