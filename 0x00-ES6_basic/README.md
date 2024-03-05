@@ -6,6 +6,10 @@
 * [JavaScript programming](https://intranet.alxswe.com/concepts/852)
 * [Software Linter](https://intranet.alxswe.com/concepts/542)
 
+## :book:  Topics Covered
+1. ECMAScript 6 - ECMAScript 2015.
+2. Node.js and NPM
+
 # Resources 
 * [ECMAScript 6 - ECMAScript 2015](https://intranet.alxswe.com/rltoken/NW1dFLFExQ12_hD8yvkV3A)
 * [Statements and declarations](https://intranet.alxswe.com/rltoken/sroRUsUvOZV28V99MHDenw)
