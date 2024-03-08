@@ -1,4 +1,3 @@
-
 module.exports = {
   env: {
     browser: false,
@@ -26,11 +25,14 @@ module.exports = {
       'LabeledStatement',
       'WithStatement',
     ],
+    // Disable jest/unbound-method rule
+    'jest/unbound-method': 'off',
   },
-  overrides:[
+  overrides: [
     {
       files: ['*.js'],
       excludedFiles: 'babel.config.js',
-    }
-  ]
+    },
+  ],
 };
+
