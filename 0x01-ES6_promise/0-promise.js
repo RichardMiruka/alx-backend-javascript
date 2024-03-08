@@ -6,4 +6,5 @@ export default function iterateThroughObject(reportWithIterator) {
   console.error('Invalid input for iterateThroughObject:', reportWithIterator);
   // You may choose to return a default value or throw an error here
   // Example: return 'Default Value';
+  return null; // Add a return statement at the end of the function
 }
