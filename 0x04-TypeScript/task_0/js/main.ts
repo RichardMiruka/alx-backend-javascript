@@ -19,8 +19,11 @@ const student1: Student = {
     location: "Kenya"
   }
   
+  // An array containing the two students
   const studentsList: Array<Student> = [ student1, student2 ];
   
+// Create a table and append it to the body of our document
+// We render a table using Vanilla JavaScript because we are not using any frameworks/libraries
   const body: HTMLBodyElement = document.getElementsByTagName("body")[0];
   const table: HTMLTableElement = document.createElement("table");
   const thead: HTMLTableSectionElement = document.createElement("thead");
