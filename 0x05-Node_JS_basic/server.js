@@ -1,4 +1,4 @@
-const { createServer } = require('node:http'); // Import the http module
+const { createServer } = require('node:http'); // Import the http module to create a server 
 
 const hostname = '127.0.0.1'; // Defines the hostname as localhost - server is set to listen on the specified port on the local machine
 const port = 3000;
