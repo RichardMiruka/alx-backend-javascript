@@ -8,6 +8,8 @@
 > ExpressJS
 > Mocha
 
+![image](https://github.com/RichardMiruka/alx-backend-javascript/assets/105627752/f8088f0b-16c7-451c-a3f0-a77fcb1eb2e6)
+
 ## Resources
 
 * [Mocha documentation](https://intranet.alxswe.com/rltoken/Gx5mfX41__cc2hwepcl0aA)
